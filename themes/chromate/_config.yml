@@ -74,7 +74,7 @@ navbar:
 #  - ['https://www.instagram.com/serendipedia_podcast/', 'fa-brands fa-instagram', '']
 #  - ['https://www.xiaohongshu.com/user/profile/66a7d067000000001d022e42', "fa-solid fa-book", '']
 #  - ['https://alive.bar/@serendipedia', "fa-brands fa-mastodon", '' ]
-  - ['mailto:butterbeerbar@gmail.com', 'fa-solid fa-envelope', '']
+  - ['mailto:butterbeerbar2025@gmail.com', 'fa-solid fa-envelope', '']
 
 # Subnav configuration will show below navbar with a horizontal divider
 # Configuration format as same as previous
@@ -85,7 +85,7 @@ subnav:
   - ['https://pca.st/podcast/b67041c0-a36b-013d-c328-024180b637c3', 'fa-solid fa-headphones', 'Pocket Casts' ]
   - ['https://podcasts.apple.com/us/podcast/serendipedia-%E7%BB%B4%E6%9C%BA%E6%B8%B8%E8%B5%B0/id1787007937', 'fa-solid fa-podcast', 'Apple Podcast']
   - ['https://open.spotify.com/show/1yAPsDIfVEVp6vaKJP98eR?si=eb5c5c904bd542c1', 'fa-brands fa-spotify', 'Spotify']
-  - ['https://www.youtube.com/playlist?list=PLbV2d4PAwHe3_TkmTBW0woCGq5Sf-9UxR', 'fa-brands fa-youtube', 'Youtube']
+#  - ['https://www.youtube.com/playlist?list=PLbV2d4PAwHe3_TkmTBW0woCGq5Sf-9UxR', 'fa-brands fa-youtube', 'Youtube']
   - ['https://www.xiaoyuzhoufm.com/podcast/676a235f15a5fd520e1118ef', 'fa-solid fa-globe', '小宇宙']
 
 # Menubar and its texts
