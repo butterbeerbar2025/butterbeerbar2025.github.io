@@ -1,6 +1,6 @@
 ---
 title: Ep. 1 大难不死的男孩
-thumbnail: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.jpeg
+thumbnail: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.png
 date: 2026-02-11 00:00:00
 tags: ["哈利波特与魔法石"]
 excerpt: 欢迎收听《Butterbeer Bar｜黄油啤酒吧》的第一期节目 🍺 这是一个和朋友一起逐章重读《哈利·波特》的播客。<br>第一期，我们先聊了聊各自是如何走进哈利波特的世界，又为什么「一把年纪」，依然愿意一次次回到这个故事。随后，我们一起重读了《哈利·波特与魔法石》的第一章，聊了那些小时候可能没注意、长大后再看却格外有意思的细节。

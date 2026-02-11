@@ -5,9 +5,9 @@
 # 不要忘记把 enable 改成 true 哦～
 logo:
   enable: true
-  lightmode: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.jpeg #logo
-  darkmode: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.jpeg #logo
-  rss: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.jpeg #logo
+  lightmode: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.png #logo
+  darkmode: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.png #logo
+  rss: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.png #logo
 
 # Header size
 # Select from: ["fullheight", "large", "medium", "default"]
@@ -24,7 +24,7 @@ header:
 # Favicon file link
 # ------------------------------------------------------------
 # Favicon 文件地址
-favicon: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.jpeg #logo
+favicon: https://pub-bc34f0e85eab48fc9eaf000b6baa6fc5.r2.dev/pic/IMG_0094.png #logo
 
 # Datetime format for most of positions
 # ------------------------------------------------------------
