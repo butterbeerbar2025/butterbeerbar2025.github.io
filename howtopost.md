@@ -23,8 +23,8 @@
 2. Navigate to the `localhost` and inspect the outcome.
 
 ## Publish
-1. Simply push the changes with `git push`
-2. Website building can be monitored on the github repo page -> Actions.
+1. Simply push the changes to the repo.
+2. Website building can be monitored on the github repo page -> `Actions` tab.
 
 ## For more information
 The Hexo theme is [Chromate](https://github.com/guiqiqi/chromate). Their readme have more information. 
